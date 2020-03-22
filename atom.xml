@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ernao0.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-03-22T02:59:17.042Z</updated>
+    <title>Panda先生</title>
+    <updated>2020-03-22T03:19:13.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ernao0.github.io/"/>
     <link rel="self" href="https://ernao0.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://ernao0.github.io/images/avatar.png</logo>
     <icon>https://ernao0.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Panda先生</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Hello Friends]]></title>
         <id>https://ernao0.github.io/post/hello-gridea/</id>
         <link href="https://ernao0.github.io/post/hello-gridea/">
         </link>
